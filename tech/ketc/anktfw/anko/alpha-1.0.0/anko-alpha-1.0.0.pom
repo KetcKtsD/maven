@@ -19,11 +19,5 @@
       <version>0.10.5</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>org.jetbrains.anko</groupId>
-      <artifactId>anko-sdk25</artifactId>
-      <version>0.10.5</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
