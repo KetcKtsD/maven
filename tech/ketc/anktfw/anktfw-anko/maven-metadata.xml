@@ -3,10 +3,10 @@
   <groupId>tech.ketc.anktfw</groupId>
   <artifactId>anktfw-anko</artifactId>
   <versioning>
-    <release>1.1.1</release>
+    <release>1.1.2</release>
     <versions>
-      <version>1.1.1</version>
+      <version>1.1.2</version>
     </versions>
-    <lastUpdated>20190822121841</lastUpdated>
+    <lastUpdated>20190825090617</lastUpdated>
   </versioning>
 </metadata>
